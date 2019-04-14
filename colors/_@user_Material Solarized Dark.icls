@@ -4,7 +4,7 @@
     <property name="created">2019-01-21T11:51:27</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.2.0.26</property>
-    <property name="modified">2019-04-14T19:29:57</property>
+    <property name="modified">2019-04-14T20:26:16</property>
     <property name="originalScheme">Material Solarized Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -19,22 +19,25 @@
     <option name="ANNOTATIONS_COLOR" value="586e75" />
     <option name="ANNOTATIONS_MERGED_COLOR" value="2aa198" />
     <option name="CARET_COLOR" value="dc322f" />
-    <option name="CARET_ROW_COLOR" value="73642" />
+    <option name="CARET_ROW_COLOR" value="2f5f2f" />
     <option name="CONSOLE_BACKGROUND_KEY" value="2b36" />
     <option name="DELETED_LINES_COLOR" value="4d1d08" />
-    <option name="GUTTER_BACKGROUND" value="73642" />
+    <option name="GUTTER_BACKGROUND" value="3745" />
     <option name="INDENT_GUIDE" value="73642" />
     <option name="INFORMATION_HINT" value="4d4f51" />
     <option name="LINE_NUMBERS_COLOR" value="839496" />
     <option name="METHOD_SEPARATORS_COLOR" value="73642" />
     <option name="MODIFIED_LINES_COLOR" value="99ccff" />
     <option name="NOTIFICATION_BACKGROUND" value="fdf6e3" />
+    <option name="READONLY_FRAGMENT_BACKGROUND" value="424502" />
     <option name="RIGHT_MARGIN_COLOR" value="73642" />
     <option name="SELECTED_INDENT_GUIDE" value="586e75" />
     <option name="SELECTED_TEARLINE_COLOR" value="657b83" />
-    <option name="SELECTION_BACKGROUND" value="657b83" />
-    <option name="SELECTION_FOREGROUND" value="2b36" />
+    <option name="SELECTION_BACKGROUND" value="324444" />
+    <option name="SEPARATOR_ABOVE_COLOR" value="3745" />
+    <option name="SOFT_WRAP_SIGN_COLOR" value="3745" />
     <option name="TEARLINE_COLOR" value="586e75" />
+    <option name="TOOLTIP" value="3745" />
     <option name="WHITESPACES" value="586e75" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="ffffff" />
   </colors>
@@ -957,7 +960,6 @@
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="586e75" />
-        <option name="BACKGROUND" value="73642" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
