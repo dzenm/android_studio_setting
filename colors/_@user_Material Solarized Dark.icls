@@ -4,7 +4,7 @@
     <property name="created">2019-01-21T11:51:27</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.2.0.26</property>
-    <property name="modified">2019-04-12T00:01:22</property>
+    <property name="modified">2019-04-14T19:29:57</property>
     <property name="originalScheme">Material Solarized Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -24,7 +24,8 @@
     <option name="DELETED_LINES_COLOR" value="4d1d08" />
     <option name="GUTTER_BACKGROUND" value="73642" />
     <option name="INDENT_GUIDE" value="73642" />
-    <option name="LINE_NUMBERS_COLOR" value="586e75" />
+    <option name="INFORMATION_HINT" value="4d4f51" />
+    <option name="LINE_NUMBERS_COLOR" value="839496" />
     <option name="METHOD_SEPARATORS_COLOR" value="73642" />
     <option name="MODIFIED_LINES_COLOR" value="99ccff" />
     <option name="NOTIFICATION_BACKGROUND" value="fdf6e3" />
@@ -179,6 +180,12 @@
     <option name="BASH.VAR_USE_COMPOSED">
       <value>
         <option name="FOREGROUND" value="cb4b16" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_CURRENT">
+      <value>
+        <option name="FOREGROUND" value="cbcbcb" />
+        <option name="BACKGROUND" value="5d6962" />
       </value>
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
