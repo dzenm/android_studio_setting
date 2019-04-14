@@ -4,7 +4,7 @@
     <property name="created">2019-01-21T11:51:27</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.2.0.26</property>
-    <property name="modified">2019-04-14T20:26:16</property>
+    <property name="modified">2019-04-14T23:12:23</property>
     <property name="originalScheme">Material Solarized Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -19,7 +19,7 @@
     <option name="ANNOTATIONS_COLOR" value="586e75" />
     <option name="ANNOTATIONS_MERGED_COLOR" value="2aa198" />
     <option name="CARET_COLOR" value="dc322f" />
-    <option name="CARET_ROW_COLOR" value="2f5f2f" />
+    <option name="CARET_ROW_COLOR" value="3b2e57" />
     <option name="CONSOLE_BACKGROUND_KEY" value="2b36" />
     <option name="DELETED_LINES_COLOR" value="4d1d08" />
     <option name="GUTTER_BACKGROUND" value="3745" />
@@ -33,7 +33,7 @@
     <option name="RIGHT_MARGIN_COLOR" value="73642" />
     <option name="SELECTED_INDENT_GUIDE" value="586e75" />
     <option name="SELECTED_TEARLINE_COLOR" value="657b83" />
-    <option name="SELECTION_BACKGROUND" value="324444" />
+    <option name="SELECTION_BACKGROUND" value="107a00" />
     <option name="SEPARATOR_ABOVE_COLOR" value="3745" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="3745" />
     <option name="TEARLINE_COLOR" value="586e75" />
@@ -223,6 +223,11 @@
       <value>
         <option name="FOREGROUND" value="586e75" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="CLASS_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="2b91af" />
       </value>
     </option>
     <option name="CLASS_REFERENCE">
@@ -470,6 +475,12 @@
     <option name="CONSOLE_YELLOW_OUTPUT">
       <value>
         <option name="FOREGROUND" value="b58900" />
+      </value>
+    </option>
+    <option name="CONSTRUCTOR_DECLARATION_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="ff60fb" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="CSS.COMMENT">
@@ -1277,7 +1288,8 @@
     </option>
     <option name="JAVA_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="b58900" />
+        <option name="FOREGROUND" value="52c252" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="JAVA_LINE_COMMENT">
@@ -2023,6 +2035,12 @@
     </option>
     <option name="MESSAGE_ARGUMENT">
       <value />
+    </option>
+    <option name="METHOD_DECLARATION_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="ff60fb" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
     </option>
     <option name="Map key">
       <value>
@@ -3177,7 +3195,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="839496" />
-        <option name="BACKGROUND" value="2b36" />
+        <option name="BACKGROUND" value="73642" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">

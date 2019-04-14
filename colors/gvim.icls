@@ -115,6 +115,12 @@
         <option name="FOREGROUND" value="757575" />
       </value>
     </option>
+    <option name="CONSTRUCTOR_DECLARATION_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="ff60fb" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="60ff60" />
@@ -547,6 +553,12 @@
     <option name="STATIC_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="d8d8d8" />
+      </value>
+    </option>
+    <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="ff60fb" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="STATIC_METHOD_ATTRIBUTES">
