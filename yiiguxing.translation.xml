@@ -1,19 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="protected" />
+      <item value="gravity" />
       <item value="F&quot;)};" />
       <item value="ANTI" />
       <item value="FLAG" />
       <item value="ALIAS" />
-      <item value="protected" />
       <item value="context" />
       <item value="Draw" />
       <item value="super" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8" />
-        <entry key="ENGLISH" value="9" />
+        <entry key="CHINESE" value="11" />
+        <entry key="ENGLISH" value="12" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
