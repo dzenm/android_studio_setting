@@ -1,10 +1,26 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="onward" />
+      <item value="particular" />
+      <item value="explicit" />
+      <item value="indicate" />
+      <item value="available" />
+      <item value="response" />
+      <item value="appropriate" />
+      <item value="bounds" />
+      <item value="processing" />
+      <item value="dispatched" />
+      <item value="Threading" />
+      <item value="invalidate" />
+      <item value="force" />
+      <item value="siblings" />
+      <item value="within" />
+      <item value="typically" />
+      <item value="impose" />
       <item value="descendants" />
       <item value="guarantee" />
       <item value="exact" />
-      <item value="impose" />
       <item value="pixels" />
       <item value="EXACTLY" />
       <item value="desired" />
@@ -35,26 +51,11 @@
       <item value="instance" />
       <item value="amount" />
       <item value="specific" />
-      <item value="dimensions" />
-      <item value="sometimes" />
-      <item value="pair" />
-      <item value="Measured" />
-      <item value="calling" />
-      <item value="obtained" />
-      <item value="protected" />
-      <item value="gravity" />
-      <item value="F&quot;)};" />
-      <item value="ANTI" />
-      <item value="FLAG" />
-      <item value="ALIAS" />
-      <item value="context" />
-      <item value="Draw" />
-      <item value="super" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="54" />
-        <entry key="ENGLISH" value="55" />
+        <entry key="CHINESE" value="72" />
+        <entry key="ENGLISH" value="73" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
