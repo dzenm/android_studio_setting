@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Brief" />
       <item value="Mask" />
       <item value="ambiguous" />
       <item value="onward" />
@@ -50,12 +51,11 @@
       <item value="provide" />
       <item value="edge" />
       <item value="padding" />
-      <item value="instance" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="74" />
-        <entry key="ENGLISH" value="75" />
+        <entry key="CHINESE" value="75" />
+        <entry key="ENGLISH" value="76" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
