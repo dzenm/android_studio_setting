@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="descendants" />
+      <item value="guarantee" />
+      <item value="exact" />
+      <item value="impose" />
+      <item value="pixels" />
+      <item value="EXACTLY" />
+      <item value="desired" />
+      <item value="SPECIFIED" />
+      <item value="UNSPECIFIED" />
+      <item value="subclasses" />
       <item value="MATCH" />
       <item value="WRAP" />
       <item value="specify" />
@@ -43,8 +53,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="43" />
-        <entry key="ENGLISH" value="44" />
+        <entry key="CHINESE" value="54" />
+        <entry key="ENGLISH" value="55" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
