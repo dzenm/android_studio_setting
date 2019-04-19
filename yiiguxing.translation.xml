@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Image" />
+      <item value="dot" />
+      <item value="dot Layout" />
       <item value="Brief" />
       <item value="Mask" />
       <item value="ambiguous" />
@@ -48,14 +51,11 @@
       <item value="pass" />
       <item value="process" />
       <item value="Refer" />
-      <item value="provide" />
-      <item value="edge" />
-      <item value="padding" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="75" />
-        <entry key="ENGLISH" value="76" />
+        <entry key="CHINESE" value="78" />
+        <entry key="ENGLISH" value="79" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
