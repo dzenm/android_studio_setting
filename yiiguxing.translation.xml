@@ -1,6 +1,21 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="MATCH" />
+      <item value="WRAP" />
+      <item value="specify" />
+      <item value="Params" />
+      <item value="communicate" />
+      <item value="unconstrained" />
+      <item value="unspecified" />
+      <item value="along" />
+      <item value="computed" />
+      <item value="positioning" />
+      <item value="responsible" />
+      <item value="measurements" />
+      <item value="recursion" />
+      <item value="specifications" />
+      <item value="traversal" />
       <item value="pass" />
       <item value="process" />
       <item value="Refer" />
@@ -28,8 +43,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="27" />
-        <entry key="ENGLISH" value="28" />
+        <entry key="CHINESE" value="43" />
+        <entry key="ENGLISH" value="44" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
