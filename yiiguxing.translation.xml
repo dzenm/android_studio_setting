@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="时间戳" />
       <item value="reveal" />
       <item value="展示" />
       <item value="verify" />
@@ -50,12 +51,11 @@
       <item value="UNSPECIFIED" />
       <item value="subclasses" />
       <item value="MATCH" />
-      <item value="WRAP" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="87" />
-        <entry key="ENGLISH" value="87" />
+        <entry key="ENGLISH" value="88" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="INDONESIAN" value="1" />
