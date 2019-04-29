@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reveal" />
+      <item value="展示" />
+      <item value="verify" />
+      <item value="校验" />
       <item value="abs" />
       <item value="multiple" />
       <item value="多种" />
@@ -47,15 +51,11 @@
       <item value="subclasses" />
       <item value="MATCH" />
       <item value="WRAP" />
-      <item value="specify" />
-      <item value="Params" />
-      <item value="communicate" />
-      <item value="unconstrained" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="85" />
-        <entry key="ENGLISH" value="85" />
+        <entry key="CHINESE" value="87" />
+        <entry key="ENGLISH" value="87" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="INDONESIAN" value="1" />
