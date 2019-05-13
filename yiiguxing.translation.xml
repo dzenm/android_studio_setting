@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="验证码" />
       <item value="margin" />
       <item value="padding" />
       <item value="添加" />
@@ -50,7 +51,6 @@
       <item value="onward" />
       <item value="particular" />
       <item value="explicit" />
-      <item value="indicate" />
     </histories>
     <option name="languageScores">
       <map>
