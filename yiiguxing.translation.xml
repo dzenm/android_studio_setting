@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="扁平化" />
+      <item value="Style" />
       <item value="倒计时" />
       <item value="验证码" />
       <item value="margin" />
@@ -49,13 +51,11 @@
       <item value="Brief" />
       <item value="Mask" />
       <item value="ambiguous" />
-      <item value="onward" />
-      <item value="particular" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="100" />
-        <entry key="ENGLISH" value="101" />
+        <entry key="CHINESE" value="101" />
+        <entry key="ENGLISH" value="102" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="INDONESIAN" value="1" />
