@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="transparent" />
+      <item value="Translucent" />
       <item value="Apps&#10;     * will still receive broadcasts if they register their" />
       <item value="if they declare the broadcast receiver in their manifest" />
       <item value="Apps targeting Android 7.0 (API level 24) and higher do not receive" />
@@ -49,13 +51,11 @@
       <item value="abs" />
       <item value="multiple" />
       <item value="多种" />
-      <item value="Model" />
-      <item value="Navi" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="107" />
-        <entry key="ENGLISH" value="108" />
+        <entry key="CHINESE" value="109" />
+        <entry key="ENGLISH" value="110" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="INDONESIAN" value="1" />
