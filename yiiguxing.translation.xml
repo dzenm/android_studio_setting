@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Subscribe" />
       <item value="transparent" />
       <item value="Translucent" />
       <item value="Apps&#10;     * will still receive broadcasts if they register their" />
@@ -50,12 +51,11 @@
       <item value="校验" />
       <item value="abs" />
       <item value="multiple" />
-      <item value="多种" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="109" />
-        <entry key="ENGLISH" value="110" />
+        <entry key="CHINESE" value="110" />
+        <entry key="ENGLISH" value="111" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="INDONESIAN" value="1" />
