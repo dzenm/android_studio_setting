@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="populate" />
+      <item value="attached" />
       <item value="Subscribe" />
       <item value="transparent" />
       <item value="Translucent" />
@@ -49,13 +51,11 @@
       <item value="reveal" />
       <item value="展示" />
       <item value="校验" />
-      <item value="abs" />
-      <item value="multiple" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="110" />
-        <entry key="ENGLISH" value="111" />
+        <entry key="CHINESE" value="112" />
+        <entry key="ENGLISH" value="113" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="INDONESIAN" value="1" />
