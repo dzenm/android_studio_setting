@@ -1,11 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Translucent" />
+      <item value="Transculent" />
+      <item value="Tranculent" />
+      <item value="透明" />
       <item value="populate" />
       <item value="attached" />
       <item value="Subscribe" />
       <item value="transparent" />
-      <item value="Translucent" />
       <item value="Apps&#10;     * will still receive broadcasts if they register their" />
       <item value="if they declare the broadcast receiver in their manifest" />
       <item value="Apps targeting Android 7.0 (API level 24) and higher do not receive" />
@@ -48,16 +51,14 @@
       <item value="重复" />
       <item value="圆角" />
       <item value="时间戳" />
-      <item value="reveal" />
-      <item value="展示" />
-      <item value="校验" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="112" />
-        <entry key="ENGLISH" value="113" />
+        <entry key="CHINESE" value="114" />
+        <entry key="ENGLISH" value="115" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="1" />
+        <entry key="FRENCH" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
