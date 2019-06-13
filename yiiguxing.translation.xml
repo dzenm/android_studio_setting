@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="content" />
+      <item value="optional" />
       <item value="Ripple" />
       <item value="Cap" />
       <item value="RADIUS" />
@@ -49,8 +51,6 @@
       <item value="中等" />
       <item value="medium" />
       <item value="小字提示" />
-      <item value="分割线" />
-      <item value="分割" />
     </histories>
     <option name="languageScores">
       <map>
