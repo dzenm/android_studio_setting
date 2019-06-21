@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="divider" />
+      <item value="divide" />
       <item value="content" />
       <item value="optional" />
       <item value="Ripple" />
@@ -49,13 +51,11 @@
       <item value="小标题" />
       <item value="prompt" />
       <item value="中等" />
-      <item value="medium" />
-      <item value="小字提示" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="116" />
-        <entry key="ENGLISH" value="117" />
+        <entry key="CHINESE" value="118" />
+        <entry key="ENGLISH" value="118" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
