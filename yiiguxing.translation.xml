@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="clipped" />
+      <item value="Representation" />
+      <item value="clipboard" />
       <item value="输出异常信息" />
       <item value="divider" />
       <item value="divide" />
@@ -48,14 +51,11 @@
       <item value="状态栏" />
       <item value="正文" />
       <item value="超大号文字" />
-      <item value="大标题" />
-      <item value="小标题" />
-      <item value="prompt" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="118" />
-        <entry key="ENGLISH" value="119" />
+        <entry key="CHINESE" value="121" />
+        <entry key="ENGLISH" value="122" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
