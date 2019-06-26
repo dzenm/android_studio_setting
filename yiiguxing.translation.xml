@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="摆动" />
+      <item value="摆钟" />
       <item value="initialize" />
       <item value="初始化" />
       <item value="clipped" />
@@ -49,13 +51,11 @@
       <item value="小图标点击区域" />
       <item value="用户头像尺寸" />
       <item value="悬浮按钮尺寸" />
-      <item value="导航栏" />
-      <item value="状态栏" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="122" />
-        <entry key="ENGLISH" value="122" />
+        <entry key="ENGLISH" value="123" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
