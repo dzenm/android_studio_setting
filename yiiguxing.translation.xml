@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="on Geolocation Permissions Hide Prompt" />
       <item value="标记" />
       <item value="随机" />
       <item value="初始化完成" />
@@ -50,12 +51,11 @@
       <item value="添加" />
       <item value="屏幕左右对齐基线" />
       <item value="卡片间距" />
-      <item value="侧边抽屉到屏幕右边的距离" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="123" />
-        <entry key="ENGLISH" value="123" />
+        <entry key="ENGLISH" value="124" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
