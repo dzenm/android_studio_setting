@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="随机" />
+      <item value="初始化完成" />
       <item value="摆动" />
       <item value="摆钟" />
       <item value="initialize" />
@@ -49,8 +51,6 @@
       <item value="卡片间距" />
       <item value="侧边抽屉到屏幕右边的距离" />
       <item value="小图标点击区域" />
-      <item value="用户头像尺寸" />
-      <item value="悬浮按钮尺寸" />
     </histories>
     <option name="languageScores">
       <map>
