@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ordered" />
+      <item value="processing" />
+      <item value="currently" />
+      <item value="Returns true if the receiver is currently processing an ordered" />
       <item value="on Geolocation Permissions Hide Prompt" />
       <item value="标记" />
       <item value="随机" />
@@ -47,15 +51,11 @@
       <item value="倒计时" />
       <item value="验证码" />
       <item value="margin" />
-      <item value="padding" />
-      <item value="添加" />
-      <item value="屏幕左右对齐基线" />
-      <item value="卡片间距" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="123" />
-        <entry key="ENGLISH" value="124" />
+        <entry key="CHINESE" value="127" />
+        <entry key="ENGLISH" value="128" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
