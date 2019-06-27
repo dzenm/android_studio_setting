@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="标记" />
       <item value="随机" />
       <item value="初始化完成" />
       <item value="摆动" />
@@ -50,11 +51,10 @@
       <item value="屏幕左右对齐基线" />
       <item value="卡片间距" />
       <item value="侧边抽屉到屏幕右边的距离" />
-      <item value="小图标点击区域" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="122" />
+        <entry key="CHINESE" value="123" />
         <entry key="ENGLISH" value="123" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="1" />
