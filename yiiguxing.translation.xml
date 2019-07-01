@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="异常" />
+      <item value="没有网络" />
       <item value="底部" />
       <item value="Scroll" />
       <item value="检测" />
@@ -49,12 +51,10 @@
       <item value="verife" />
       <item value="Text" />
       <item value="文件夹" />
-      <item value="文件" />
-      <item value="秒" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="128" />
+        <entry key="CHINESE" value="129" />
         <entry key="ENGLISH" value="129" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="1" />
