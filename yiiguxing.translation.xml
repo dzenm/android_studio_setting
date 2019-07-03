@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ERROR BLOCKED" />
+      <item value="RESUME" />
+      <item value="INSUFFICIENT SPACE" />
+      <item value="REDIRECTS" />
+      <item value="when an error receiving or processing data occurred" />
+      <item value="DATA" />
+      <item value="UNHANDLED" />
+      <item value="RETRY" />
       <item value="流量" />
       <item value="silentpdate" />
       <item value="静默更新" />
@@ -43,19 +51,11 @@
       <item value="attached" />
       <item value="Subscribe" />
       <item value="transparent" />
-      <item value="Apps&#10;     * will still receive broadcasts if they register their" />
-      <item value="if they declare the broadcast receiver in their manifest" />
-      <item value="Apps targeting Android 7.0 (API level 24) and higher do not receive" />
-      <item value="failing" />
-      <item value="failover" />
-      <item value="data" />
-      <item value="broadcast" />
-      <item value="brief" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="132" />
-        <entry key="ENGLISH" value="132" />
+        <entry key="CHINESE" value="139" />
+        <entry key="ENGLISH" value="140" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
