@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="silentpdate" />
+      <item value="静默更新" />
       <item value="调用浏览器" />
       <item value="异常" />
       <item value="没有网络" />
@@ -49,13 +51,11 @@
       <item value="broadcast" />
       <item value="brief" />
       <item value="verify" />
-      <item value="verife" />
-      <item value="Text" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="130" />
-        <entry key="ENGLISH" value="130" />
+        <entry key="CHINESE" value="131" />
+        <entry key="ENGLISH" value="132" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
