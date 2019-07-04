@@ -1,9 +1,9 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="allowDataCollection" value="true" />
-    <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="selectedTheme" value="SOLARIZED_DARK" />
+    <option name="rightTreeIndent" value="6" />
+    <option name="settingsSelectedTab" value="4" />
     <option name="userId" value="-7ceed9ef:16830972e9e:-8000" />
     <option name="version" value="3.5.0.1" />
   </component>

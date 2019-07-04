@@ -13,6 +13,14 @@
         <entry key="java.overridden" value="true" />
         <entry key="java.overriding" value="true" />
         <entry key="java.service" value="true" />
+        <entry key="java.sibling.inherited" value="true" />
+        <entry key="kotlin.actual" value="true" />
+        <entry key="kotlin.dsl" value="true" />
+        <entry key="kotlin.expect" value="true" />
+        <entry key="kotlin.implemented" value="true" />
+        <entry key="kotlin.implementing" value="true" />
+        <entry key="kotlin.overridden" value="true" />
+        <entry key="kotlin.overriding" value="true" />
       </map>
     </option>
   </component>
