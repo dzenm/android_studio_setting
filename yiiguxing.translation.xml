@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="exceeds" />
+      <item value="retried" />
+      <item value="PENDING" />
+      <item value="RUNNING" />
+      <item value="PAUSED" />
       <item value="ERROR BLOCKED" />
       <item value="RESUME" />
       <item value="INSUFFICIENT SPACE" />
@@ -46,16 +51,11 @@
       <item value="Translucent" />
       <item value="Transculent" />
       <item value="Tranculent" />
-      <item value="透明" />
-      <item value="populate" />
-      <item value="attached" />
-      <item value="Subscribe" />
-      <item value="transparent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="139" />
-        <entry key="ENGLISH" value="140" />
+        <entry key="CHINESE" value="146" />
+        <entry key="ENGLISH" value="147" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
