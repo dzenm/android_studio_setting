@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="decelerate" />
+      <item value="accelerate" />
+      <item value="property" />
+      <item value="属性" />
       <item value="exceeds" />
       <item value="retried" />
       <item value="PENDING" />
@@ -47,15 +51,11 @@
       <item value="optional" />
       <item value="Ripple" />
       <item value="Cap" />
-      <item value="RADIUS" />
-      <item value="Translucent" />
-      <item value="Transculent" />
-      <item value="Tranculent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="146" />
-        <entry key="ENGLISH" value="147" />
+        <entry key="CHINESE" value="150" />
+        <entry key="ENGLISH" value="151" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
